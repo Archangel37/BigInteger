@@ -1,0 +1,12 @@
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.Form1.resources
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.Properties.Resources.resources
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.csproj.GenerateResource.Cache
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.pdb
+G:\C_Sharp\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.pdb

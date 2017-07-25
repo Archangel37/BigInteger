@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Numerics;
+
+
+namespace BigInteger
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System.Numerics.BigInteger number = System.Numerics.BigInteger.Pow(Int32.MaxValue, 100000);
+            //number = number - 1;
+            richTextBox1.Text = Convert.ToString(number);
+            
+
+        }
+    }
+}
