@@ -21,10 +21,32 @@ namespace BigInteger
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Numerics.BigInteger number = System.Numerics.BigInteger.Pow(Int32.MaxValue, 100000);
-            //number = number - 1;
-            richTextBox1.Text = Convert.ToString(number);
+            if (!String.IsNullOrWhiteSpace(richTextBoxNum.Text) && !String.IsNullOrWhiteSpace(richTextBoxPow.Text) )
+            {
+
+                try
+                {
+                    System.Numerics.BigInteger Number = System.Numerics.BigInteger.Parse(richTextBoxNum.Text);
+                    int Power = Convert.ToInt32(richTextBoxPow.Text);
+                    System.Numerics.BigInteger Result = System.Numerics.BigInteger.Pow(Number, Power);
+                    richTextBoxResult.Text = Convert.ToString(Result);
+                }
+                catch (FormatException)
+                {
+                    richTextBoxResult.Text = "Incorrect data entry, FormatException";
+                }
+                catch (System.ArgumentOutOfRangeException)
+                {
+                    richTextBoxResult.Text = "Incorrect data entry, ArgumentOutOfRangeException";
+                }
+               catch (System.OverflowException)
+                {
+                    richTextBoxResult.Text = "Incorrect data entry, OverflowException";
+                }
+
             
+            
+            }
 
         }
     }

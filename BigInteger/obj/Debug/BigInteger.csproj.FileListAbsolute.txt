@@ -10,3 +10,9 @@ c:\mydocuments\visual studio 2012\Projects\BigInteger\BigInteger\obj\Debug\BigIn
 G:\C_Sharp\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
 G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.exe
 G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.pdb
+G:\C_Sharp\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+G:\C_Sharp\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.Form1.resources
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.Properties.Resources.resources
+G:\C_Sharp\BigInteger\BigInteger\obj\Debug\BigInteger.csproj.GenerateResource.Cache
